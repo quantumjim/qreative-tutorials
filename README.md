@@ -43,14 +43,14 @@ The current tools are based on the following projects.
 * [Quantum Emoticons](https://medium.com/qiskit/making-a-quantum-computer-smile-cee86a6fc1de) inspired `emoticon_superposer`.
 * [Image Superposer](https://medium.com/qiskit/a-quantum-superposition-of-a-tiger-and-a-bear-b461e3b23908)
  inspired `image_superposer`.
-* [Quantum Awesomeness](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_awesomeness.ipynb) <sup>1,2</sup> inspired `layout`.
+* [Quantum Awesomeness](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_awesomeness.ipynb) inspired `layout`.
 * [Audio Superposer](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/laurel_or_yanny.ipynb) inspired `audio_superposer`.
 * [Hello Qiskit](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/Hello_Qiskit.ipynb)
-  and [Hello Quantum](http://helloquantum.mybluemix.net/) <sup>4</sup> inspired `pauli_grid`.
+  and [Hello Quantum](http://helloquantum.mybluemix.net/) inspired `pauli_grid`.
 * [Quantum Tic-Tac-Toe](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_tic_tac_toe.ipynb)  inspired `random_grid`.
 * [Quantum 8-Ball](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/quantum_8ball.ipynb)  inspired `qrng`.
 * [Quantum Slot Machine](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_slot_machine.ipynb)  inspired `qrng`.
 
 ## Credits
 
-This project was initiated by James Wootton while at the [Condensed Matter and Quantum Computing Theory Group](http://www.quantumtheory.unibas.ch/) of the University of Basel. He has developed it further while at IBM Research. Contributions are welcome.
+This project was initiated by James Wootton while at the [Condensed Matter and Quantum Computing Theory Group](http://www.quantumtheory.unibas.ch/) of the University of Basel. He continues to develop it while at IBM Research. Contributions are welcome.

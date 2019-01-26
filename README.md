@@ -37,20 +37,20 @@ Each quantum program can be run multiple times so that the any randomness in the
 
 The current tools are based on the following projects.
 
-* [Battleships with partial NOT gates](https://medium.com/qiskit/how-to-program-a-quantum-computer-982a9329ed02) <sup>1</sup> inspired `ladder`.
-* [Battleships with complementary measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe) <sup>1</sup> inspired `twobit`.
-* [Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) <sup>1</sup> inspired `bell_correlation`.
-* [Quantum Emoticons](https://medium.com/qiskit/making-a-quantum-computer-smile-cee86a6fc1de) <sup>1</sup> inspired `emoticon_superposer`.
+* [Battleships with partial NOT gates](https://medium.com/qiskit/how-to-program-a-quantum-computer-982a9329ed02) inspired `ladder`.
+* [Battleships with complementary measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe) inspired `twobit`.
+* [Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) inspired `bell_correlation`.
+* [Quantum Emoticons](https://medium.com/qiskit/making-a-quantum-computer-smile-cee86a6fc1de) inspired `emoticon_superposer`.
 * [Image Superposer](https://medium.com/qiskit/a-quantum-superposition-of-a-tiger-and-a-bear-b461e3b23908)
- <sup>1</sup> inspired `image_superposer`.
+ inspired `image_superposer`.
 * [Quantum Awesomeness](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_awesomeness.ipynb) <sup>1,2</sup> inspired `layout`.
-* [Audio Superposer](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/laurel_or_yanny.ipynb)<sup>3</sup> inspired `audio_superposer`.
+* [Audio Superposer](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/laurel_or_yanny.ipynb) inspired `audio_superposer`.
 * [Hello Qiskit](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/Hello_Qiskit.ipynb)
- <sup>2</sup> and [Hello Quantum](http://helloquantum.mybluemix.net/) <sup>4</sup> inspired `pauli_grid`.
-* [Quantum Tic-Tac-Toe](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_tic_tac_toe.ipynb) <sup>5</sup> inspired `random_grid`.
-* [Quantum 8-Ball](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/quantum_8ball.ipynb) <sup>6</sup> inspired `qrng`.
-* [Quantum Slot Machine](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_slot_machine.ipynb) <sup>7</sup> inspired `qrng`.
+  and [Hello Quantum](http://helloquantum.mybluemix.net/) <sup>4</sup> inspired `pauli_grid`.
+* [Quantum Tic-Tac-Toe](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_tic_tac_toe.ipynb)  inspired `random_grid`.
+* [Quantum 8-Ball](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/quantum_8ball.ipynb)  inspired `qrng`.
+* [Quantum Slot Machine](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/games/quantum_slot_machine.ipynb)  inspired `qrng`.
 
 ## Credits
 
-This project was initiated in the [Condensed Matter and Quantum Computing Theory Group](http://www.quantumtheory.unibas.ch/) at the University of Basel, and is now maintained by IBM Research. Contributions are welcome.
+This project was initiated by James Wootton while at the [Condensed Matter and Quantum Computing Theory Group](http://www.quantumtheory.unibas.ch/) of the University of Basel. He has developed it further while at IBM Research. Contributions are welcome.
